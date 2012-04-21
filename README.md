@@ -5,7 +5,7 @@ TV Show Renamer is a command line tool used to rapidly rename a bunch of TV show
 
 ###Example:
 
-Files like those ones:  
+Files like these ones:  
   - FamousShow.S05E01.DVDRip.XviD-BLAH.avi  
   - FamousShow.S05E02.DVDRip.XviD-BLAH.avi  
 
