@@ -1,0 +1,19 @@
+Changelog
+
+Version 1.05
+Refactoring: Simplified confirmation process
+
+Version 1.04
+Added format "Dexter.1x01"
+
+Version 1.03
+Improvement in pattern verification, and support of format "Dexter.101.mkv".
+
+Version 1.02
+Support format like " Dexter.sXXeYY.mkv "
+
+Version 1.01
+Bugfix with temp files (._dexter.SxxExx.mkv)
+
+Version 1.00
+Initial Version
