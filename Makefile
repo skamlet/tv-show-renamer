@@ -31,7 +31,7 @@ clean:
 	$(RM) -r $(localdirs)
 
 $(program): $(objs)
-	$(jar) cvf $@ -C $(objdir) .
+	$(jar) cvmf MANIFEST.MF $@ -C $(objdir) .
 
 $(objs): $(srcs)
 	$(javac) -d $(objdir) $^
