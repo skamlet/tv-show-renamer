@@ -16,3 +16,10 @@ Will be renamed like this:
 ###How to use it:
 
 ```java -jar renamer.jar <name> <directory>```
+
+### Supported Pattern:
+  - S01E01 (FamousShow.S05E01.DVDRip.XviD-BLAH.avi)
+  - 01x01 (FamousShow.05x01.DVDRip.XviD-BLAH.avi)
+  - 1x01 (FamousShow.5x01.DVDRip.XviD-BLAH.avi)
+  - 0101 (FamousShow.0501.DVDRip.XviD-BLAH.avi)
+  - 101 (FamousShow.501.DVDRip.XviD-BLAH.avi)
